@@ -169,5 +169,8 @@
       }
     }
   },
-  "defaultProject": "ngx-audio-player-demo"
+  "defaultProject": "ngx-audio-player-demo",
+  "cli": {
+    "analytics": "4b8d69a4-2b51-4022-8cf5-ee5cefce0519"
+  }
 }
